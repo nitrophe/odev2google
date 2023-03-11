@@ -1,0 +1,91 @@
+
+.google {
+    background-color:white;
+    width: 95%;
+    height: 95%;
+    margin:auto;
+    
+}
+
+
+.search {
+    background-color:rgb(238, 238, 238) ;
+    width: 1700px;
+    height: 65px;
+    margin: auto;
+    margin-bottom: 5;
+    text-align: center;
+    font-size: 16px;
+    position: relative;
+    top: -13px;
+}
+
+.kutucuk {
+    width: 317px;
+    height: 15px;
+    position: relative;
+    top: -15px;
+}
+
+.googlesearch {
+    position: relative;
+    top: -15px;
+}
+
+.box {
+
+    margin: auto;
+    width: 1700px;
+    height: 80px;
+    margin-top: -11px;
+    text-align: center;
+}
+
+.box1 {
+    background-color:rgb(126, 229, 218);
+    width: 605px;
+    height: 69px;
+    padding: 10px;
+    float: left;
+    
+   
+}
+
+.box2 {
+    background-color:rgb(112, 204, 194);
+    margin-left: 2px;
+    width: 335px;
+    height: 79px;
+    font-size: smaller;
+    padding: 5px;
+    float: left;
+    
+
+
+    
+}
+
+.box3 {
+    background-color: rgb(98, 179, 170);
+    margin-left: 2px;
+    width: 726px;
+    height: 80px;
+    font-size: smaller;
+    padding-bottom: 9px;
+    float: left;
+   
+}
+
+.box4 {
+    background-color: white;
+    margin: auto;
+    width: 1700px;
+    clear: both;
+    text-align: center;
+    font-size: small;
+    padding: 7px;
+}
+
+
+
+
